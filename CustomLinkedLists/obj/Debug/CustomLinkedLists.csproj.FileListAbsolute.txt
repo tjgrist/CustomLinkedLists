@@ -1,0 +1,5 @@
+C:\Users\tjgrs\projects\visualstudio\CustomLinkedLists\CustomLinkedLists\bin\Debug\CustomLinkedLists.exe.config
+C:\Users\tjgrs\projects\visualstudio\CustomLinkedLists\CustomLinkedLists\bin\Debug\CustomLinkedLists.exe
+C:\Users\tjgrs\projects\visualstudio\CustomLinkedLists\CustomLinkedLists\bin\Debug\CustomLinkedLists.pdb
+C:\Users\tjgrs\projects\visualstudio\CustomLinkedLists\CustomLinkedLists\obj\Debug\CustomLinkedLists.exe
+C:\Users\tjgrs\projects\visualstudio\CustomLinkedLists\CustomLinkedLists\obj\Debug\CustomLinkedLists.pdb
